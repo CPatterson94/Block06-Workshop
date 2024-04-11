@@ -34,11 +34,14 @@ body {
   margin-right: auto; */
   box-sizing: border-box;
   display: flex;
+  /* flex-wrap: wrap; allows you to condense*/
   flex-direction: row;
+  justify-content: center;
 }
 #can {
   display: inline-block;
   background-color: grey;
+  width: 200px;
   box-sizing: border-box;
   border-style: solid;
   color: black;
@@ -49,6 +52,7 @@ body {
 #veg {
   display: inline-block;
   background-color: grey;
+  width: 200px;
   box-sizing: border-box;
   border-style: solid;
   color: black;
@@ -74,10 +78,12 @@ body {
   box-sizing: border-box;
   display: flex;
   flex-direction: row;
+  justify-content: center;
 }
 #meat {
   display: inline-block;
   background-color: grey;
+  width: 200px;
   box-sizing: border-box;
   border-style: solid;
   color: black;
@@ -88,6 +94,7 @@ body {
 #froveg {
   display: inline-block;
   background-color: grey;
+  width: 200px;
   box-sizing: border-box;
   border-style: solid;
   color: black;
@@ -97,9 +104,9 @@ body {
 }
 img {
   border: 1px solid black;
+  width: 200px;
   border-radius: 0.5rem;
   padding: 0.75rem;
-  width: 12rem;
 }
 footer {
   background-color: lightgray;
