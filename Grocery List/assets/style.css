@@ -1,0 +1,110 @@
+html {
+  background-color: white;
+  min-height: 100%;
+}
+
+#Groc {
+  background-color: lightgrey;
+  font-size: 7rem;
+  /* color: red; */
+  border-style: solid;
+  border-color: black;
+  border-radius: 0.5rem;
+  margin-bottom: 0.15rem;
+  text-align: center;
+}
+#pantry {
+  background-color: lightgrey;
+  color: black;
+  font-size: 3rem;
+  border-style: solid;
+  border-radius: 0.5rem;
+  margin-bottom: 0.15rem;
+  text-align: center;
+}
+body {
+  min-height: 100%;
+  margin: 0.15rem;
+}
+#pan {
+  color: darkgrey;
+  text-decoration: underline;
+  font-size: 1.2rem;
+  /* margin-left: auto;
+  margin-right: auto; */
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+}
+#can {
+  display: inline-block;
+  background-color: grey;
+  box-sizing: border-box;
+  border-style: solid;
+  color: black;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 0.5rem;
+}
+#veg {
+  display: inline-block;
+  background-color: grey;
+  box-sizing: border-box;
+  border-style: solid;
+  color: black;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 0.5rem;
+}
+#freezer {
+  background-color: lightgrey;
+  color: black;
+  font-size: 3rem;
+  border-style: solid;
+  border-radius: 0.5rem;
+  margin-bottom: 0.15rem;
+  text-align: center;
+}
+#freeze {
+  color: darkgrey;
+  text-decoration: underline;
+  font-size: 1.5rem;
+  /* margin-left: auto;
+  margin-right: auto; */
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+}
+#meat {
+  display: inline-block;
+  background-color: grey;
+  box-sizing: border-box;
+  border-style: solid;
+  color: black;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 0.5rem;
+}
+#froveg {
+  display: inline-block;
+  background-color: grey;
+  box-sizing: border-box;
+  border-style: solid;
+  color: black;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 0.5rem;
+}
+img {
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+  width: 12rem;
+}
+footer {
+  background-color: lightgray;
+  text-align: center;
+  margin-top: 20rem;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
