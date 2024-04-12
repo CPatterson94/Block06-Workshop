@@ -6,7 +6,6 @@ html {
 #Groc {
   background-color: lightgrey;
   font-size: 7rem;
-  /* color: red; */
   border-style: solid;
   border-color: black;
   border-radius: 0.5rem;
@@ -30,8 +29,6 @@ body {
   color: darkgrey;
   text-decoration: underline;
   font-size: 1.2rem;
-  /* margin-left: auto;
-  margin-right: auto; */
   box-sizing: border-box;
   display: flex;
   /* flex-wrap: wrap; allows you to condense*/
@@ -73,8 +70,6 @@ body {
   color: darkgrey;
   text-decoration: underline;
   font-size: 1.5rem;
-  /* margin-left: auto;
-  margin-right: auto; */
   box-sizing: border-box;
   display: flex;
   flex-direction: row;
